@@ -1,3 +1,6 @@
+<img width="617" height="337" alt="PB customer" src="https://github.com/user-attachments/assets/6fc42b0e-61ac-40a4-8da3-d3d6b1652c50" />
+[Customer3.sql](https://github.com/user-attachments/files/23166476/Customer3.sql)
+[Customer_Shopping_Behaviour_Analysis.ipynb](https://github.com/user-attachments/files/23166433/Customer_Shopping_Behaviour_Analysis.ipynb)
 # customer-behaviour-analysis
 End-to-end data analytics project using Python, PostgreSQL, and Power BI to analyze customer purchasing behavior and revenue trends.
 
